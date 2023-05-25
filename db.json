@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "username": "katill_boyy",
+      "email": "katill@gmail.com",
+      "password": "123",
+      "id": 1
+    }
+  ],
+  "doctor": [
+    {
+      "id": 1,
+      "name": "Jane Doe",
+      "image": "https://masai-website-images.s3.ap-south-1.amazonaws.com/Downloader_1_c382f15ecf.png",
+      "specialization": "Dermatologist",
+      "experience": 10,
+      "location": "Los Angeles",
+      "date": "2023-04-05T12:00:00.000Z",
+      "slots": 5,
+      "fee": 150
+    },
+    {
+      "id": 2,
+      "name": "Mark Johnson",
+      "image": "https://masai-website-images.s3.ap-south-1.amazonaws.com/Downloader_1_c382f15ecf.png",
+      "specialization": "Pediatrician",
+      "experience": 5,
+      "location": "Chicago",
+      "date": "2023-04-06T09:30:00.000Z",
+      "slots": 0,
+      "fee": 100
+    }
+  ],
+  "book_slots": [
+    {
+      "id": 1,
+      "name": "Jane Doe",
+      "image": "https://masai-website-images.s3.ap-south-1.amazonaws.com/Downloader_1_c382f15ecf.png",
+      "specialization": "Dermatologist",
+      "experience": 10,
+      "location": "Los Angeles",
+      "date": "2023-04-05T12:00:00.000Z",
+      "slots": 5,
+      "fee": 150
+    },
+    {
+      "id": 2,
+      "name": "Mark Johnson",
+      "image": "https://masai-website-images.s3.ap-south-1.amazonaws.com/Downloader_1_c382f15ecf.png",
+      "specialization": "Pediatrician",
+      "experience": 5,
+      "location": "Chicago",
+      "date": "2023-04-06T09:30:00.000Z",
+      "slots": 1,
+      "fee": 100
+    }
+  ]
+}
